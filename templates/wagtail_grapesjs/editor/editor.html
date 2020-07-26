@@ -1,0 +1,14 @@
+{% extends "wagtail_grapesjs/base.html" %}
+{% load static %}
+
+{% block furniture %}
+    <div id="grapesjs-editor">Just testing something</div>
+{% endblock %}
+
+
+{% block scripts %}
+    <script>
+    var pageData = {pageId: {{page_id}}}
+    </script>
+    <script src="{% static 'js/editor.js' %}"></script>
+{% endblock %}
