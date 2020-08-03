@@ -8,7 +8,7 @@ module.exports = function (env, argv) {
 
     let common = {
         mode: argv.production ? 'production' : 'development',
-        watch: true,
+        watch: !!argv.watch,
         devtool: argv.production ? '' : 'inline-source-map'
     };
 

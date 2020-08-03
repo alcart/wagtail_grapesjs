@@ -78,5 +78,10 @@
     "watchify": "^3.11.1",
     "webpack": "^4.42.0",
     "webpack-cli": "^3.3.11"
+  },
+  "scripts": {
+    "build": "webpack --progress",
+    "build:production": "webpack --progress --production --display=minimal",
+    "start": "webpack --hide-modules --watch"
   }
 }

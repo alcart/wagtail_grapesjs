@@ -1,0 +1,2513 @@
+[
+  {
+    "tagName": "header",
+    "content": "",
+    "classes": [
+      {
+        "name": "header-banner",
+        "label": "header-banner",
+        "type": 1,
+        "active": true,
+        "private": false,
+        "protected": false
+      }
+    ],
+    "components": [
+      {
+        "content": "",
+        "classes": [
+          {
+            "name": "container-width",
+            "label": "container-width",
+            "type": 1,
+            "active": true,
+            "private": false,
+            "protected": false
+          }
+        ],
+        "attributes": {
+          "id": "iorg"
+        },
+        "components": [
+          {
+            "content": "",
+            "classes": [
+              {
+                "name": "logo-container",
+                "label": "logo-container",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ],
+            "components": [
+              {
+                "type": "text",
+                "content": "GrapesJS",
+                "classes": [
+                  {
+                    "name": "logo",
+                    "label": "logo",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "nav",
+            "content": "",
+            "classes": [
+              {
+                "name": "menu",
+                "label": "menu",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ],
+            "components": [
+              {
+                "type": "text",
+                "content": "BUILDER",
+                "classes": [
+                  {
+                    "name": "menu-item",
+                    "label": "menu-item",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "content": "TEMPLATE",
+                "classes": [
+                  {
+                    "name": "menu-item",
+                    "label": "menu-item",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "content": "WEB",
+                "classes": [
+                  {
+                    "name": "menu-item",
+                    "label": "menu-item",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "",
+            "classes": [
+              {
+                "name": "clearfix",
+                "label": "clearfix",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Build your templates without coding",
+            "classes": [
+              {
+                "name": "lead-title",
+                "label": "lead-title",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ],
+            "attributes": {
+              "id": "i4cek"
+            }
+          },
+          {
+            "type": "text",
+            "content": "All text blocks could be edited easily with double clicking on it. You can create new text blocks with the command from the left panel",
+            "classes": [
+              {
+                "name": "sub-lead-title",
+                "label": "sub-lead-title",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Hover me",
+            "classes": [
+              {
+                "name": "lead-btn",
+                "label": "lead-btn",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ]
+          }
+        ],
+        "open": 1
+      }
+    ],
+    "open": 1
+  },
+  {
+    "tagName": "section",
+    "content": "",
+    "classes": [
+      {
+        "name": "flex-sect",
+        "label": "flex-sect",
+        "type": 1,
+        "active": true,
+        "private": false,
+        "protected": false
+      }
+    ],
+    "components": [
+      {
+        "content": "",
+        "classes": [
+          {
+            "name": "container-width",
+            "label": "container-width",
+            "type": 1,
+            "active": true,
+            "private": false,
+            "protected": false
+          }
+        ],
+        "components": [
+          {
+            "type": "text",
+            "content": "Flex is the new black",
+            "classes": [
+              {
+                "name": "flex-title",
+                "label": "flex-title",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "content": "With flexbox system you're able to build complex layouts easily and with free responsivity",
+            "classes": [
+              {
+                "name": "flex-desc",
+                "label": "flex-desc",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ]
+          },
+          {
+            "content": "",
+            "classes": [
+              {
+                "name": "cards",
+                "label": "cards",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ],
+            "components": [
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "card",
+                    "label": "card",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-header",
+                        "label": "card-header",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-body",
+                        "label": "card-body",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Title one",
+                        "classes": [
+                          {
+                            "name": "card-title",
+                            "label": "card-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Subtitle one",
+                        "classes": [
+                          {
+                            "name": "card-sub-title",
+                            "label": "card-sub-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                        "classes": [
+                          {
+                            "name": "card-desc",
+                            "label": "card-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "card",
+                    "label": "card",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-header",
+                        "label": "card-header",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      },
+                      {
+                        "name": "ch2",
+                        "label": "ch2",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-body",
+                        "label": "card-body",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Title two",
+                        "classes": [
+                          {
+                            "name": "card-title",
+                            "label": "card-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Subtitle two",
+                        "classes": [
+                          {
+                            "name": "card-sub-title",
+                            "label": "card-sub-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                        "classes": [
+                          {
+                            "name": "card-desc",
+                            "label": "card-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "card",
+                    "label": "card",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-header",
+                        "label": "card-header",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      },
+                      {
+                        "name": "ch3",
+                        "label": "ch3",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-body",
+                        "label": "card-body",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Title three",
+                        "classes": [
+                          {
+                            "name": "card-title",
+                            "label": "card-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Subtitle three",
+                        "classes": [
+                          {
+                            "name": "card-sub-title",
+                            "label": "card-sub-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                        "classes": [
+                          {
+                            "name": "card-desc",
+                            "label": "card-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "card",
+                    "label": "card",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-header",
+                        "label": "card-header",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      },
+                      {
+                        "name": "ch4",
+                        "label": "ch4",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-body",
+                        "label": "card-body",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Title four",
+                        "classes": [
+                          {
+                            "name": "card-title",
+                            "label": "card-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Subtitle four",
+                        "classes": [
+                          {
+                            "name": "card-sub-title",
+                            "label": "card-sub-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                        "classes": [
+                          {
+                            "name": "card-desc",
+                            "label": "card-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "card",
+                    "label": "card",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-header",
+                        "label": "card-header",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      },
+                      {
+                        "name": "ch5",
+                        "label": "ch5",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-body",
+                        "label": "card-body",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Title five",
+                        "classes": [
+                          {
+                            "name": "card-title",
+                            "label": "card-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Subtitle five",
+                        "classes": [
+                          {
+                            "name": "card-sub-title",
+                            "label": "card-sub-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                        "classes": [
+                          {
+                            "name": "card-desc",
+                            "label": "card-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "card",
+                    "label": "card",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-header",
+                        "label": "card-header",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      },
+                      {
+                        "name": "ch6",
+                        "label": "ch6",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "card-body",
+                        "label": "card-body",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Title six",
+                        "classes": [
+                          {
+                            "name": "card-title",
+                            "label": "card-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Subtitle six",
+                        "classes": [
+                          {
+                            "name": "card-sub-title",
+                            "label": "card-sub-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+                        "classes": [
+                          {
+                            "name": "card-desc",
+                            "label": "card-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tagName": "section",
+    "content": "",
+    "classes": [
+      {
+        "name": "am-sect",
+        "label": "am-sect",
+        "type": 1,
+        "active": true,
+        "private": false,
+        "protected": false
+      }
+    ],
+    "components": [
+      {
+        "content": "",
+        "classes": [
+          {
+            "name": "container-width",
+            "label": "container-width",
+            "type": 1,
+            "active": true,
+            "private": false,
+            "protected": false
+          }
+        ],
+        "components": [
+          {
+            "content": "",
+            "classes": [
+              {
+                "name": "am-container",
+                "label": "am-container",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ],
+            "components": [
+              {
+                "type": "image",
+                "void": true,
+                "content": "",
+                "classes": [
+                  {
+                    "name": "img-phone",
+                    "label": "img-phone",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "attributes": {
+                  "onmousedown": "return false",
+                  "src": "./img/phone-app.png"
+                },
+                "src": "./img/phone-app.png"
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "am-content",
+                    "label": "am-content",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "type": "text",
+                    "content": "ASSET MANAGER",
+                    "classes": [
+                      {
+                        "name": "am-pre",
+                        "label": "am-pre",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "content": "Manage your images with Asset Manager",
+                    "classes": [
+                      {
+                        "name": "am-title",
+                        "label": "am-title",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "content": "You can create image blocks with the command from the left panel and edit them with double click",
+                    "classes": [
+                      {
+                        "name": "am-desc",
+                        "label": "am-desc",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "content": "Image uploading is not allowed in this demo",
+                    "classes": [
+                      {
+                        "name": "am-post",
+                        "label": "am-post",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tagName": "section",
+    "content": "",
+    "classes": [
+      {
+        "name": "blk-sect",
+        "label": "blk-sect",
+        "type": 1,
+        "active": true,
+        "private": false,
+        "protected": false
+      }
+    ],
+    "components": [
+      {
+        "content": "",
+        "classes": [
+          {
+            "name": "container-width",
+            "label": "container-width",
+            "type": 1,
+            "active": true,
+            "private": false,
+            "protected": false
+          }
+        ],
+        "components": [
+          {
+            "type": "text",
+            "content": "Blocks",
+            "classes": [
+              {
+                "name": "blk-title",
+                "label": "blk-title",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Each element in HTML page could be seen as a block. On the left panel you could find different kind of blocks that you can create, move and style",
+            "classes": [
+              {
+                "name": "blk-desc",
+                "label": "blk-desc",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ]
+          },
+          {
+            "content": "",
+            "classes": [
+              {
+                "name": "price-cards",
+                "label": "price-cards",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ],
+            "components": [
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "price-card-cont",
+                    "label": "price-card-cont",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "price-card",
+                        "label": "price-card",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Starter",
+                        "classes": [
+                          {
+                            "name": "pc-title",
+                            "label": "pc-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Some random list",
+                        "classes": [
+                          {
+                            "name": "pc-desc",
+                            "label": "pc-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Starter feature 1",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          },
+                          {
+                            "name": "odd-feat",
+                            "label": "odd-feat",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Starter feature 2",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Starter feature 3",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          },
+                          {
+                            "name": "odd-feat",
+                            "label": "odd-feat",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Starter feature 4",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "$ 9,90/mo",
+                        "classes": [
+                          {
+                            "name": "pc-amount",
+                            "label": "pc-amount",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          },
+                          {
+                            "name": "odd-feat",
+                            "label": "odd-feat",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "price-card-cont",
+                    "label": "price-card-cont",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "price-card",
+                        "label": "price-card",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      },
+                      {
+                        "name": "pc-regular",
+                        "label": "pc-regular",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Regular",
+                        "classes": [
+                          {
+                            "name": "pc-title",
+                            "label": "pc-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Some random list",
+                        "classes": [
+                          {
+                            "name": "pc-desc",
+                            "label": "pc-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Regular feature 1",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          },
+                          {
+                            "name": "odd-feat",
+                            "label": "odd-feat",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Regular feature 2",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Regular feature 3",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          },
+                          {
+                            "name": "odd-feat",
+                            "label": "odd-feat",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Regular feature 4",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "$ 19,90/mo",
+                        "classes": [
+                          {
+                            "name": "pc-amount",
+                            "label": "pc-amount",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          },
+                          {
+                            "name": "odd-feat",
+                            "label": "odd-feat",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "price-card-cont",
+                    "label": "price-card-cont",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "price-card",
+                        "label": "price-card",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      },
+                      {
+                        "name": "pc-enterprise",
+                        "label": "pc-enterprise",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Enterprise",
+                        "classes": [
+                          {
+                            "name": "pc-title",
+                            "label": "pc-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Some random list",
+                        "classes": [
+                          {
+                            "name": "pc-desc",
+                            "label": "pc-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Enterprise feature 1",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          },
+                          {
+                            "name": "odd-feat",
+                            "label": "odd-feat",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Enterprise feature 2",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Enterprise feature 3",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          },
+                          {
+                            "name": "odd-feat",
+                            "label": "odd-feat",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "+ Enterprise feature 4",
+                        "classes": [
+                          {
+                            "name": "pc-feature",
+                            "label": "pc-feature",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "$ 29,90/mo",
+                        "classes": [
+                          {
+                            "name": "pc-amount",
+                            "label": "pc-amount",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          },
+                          {
+                            "name": "odd-feat",
+                            "label": "odd-feat",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tagName": "section",
+    "content": "",
+    "classes": [
+      {
+        "name": "bdg-sect",
+        "label": "bdg-sect",
+        "type": 1,
+        "active": true,
+        "private": false,
+        "protected": false
+      }
+    ],
+    "components": [
+      {
+        "content": "",
+        "classes": [
+          {
+            "name": "container-width",
+            "label": "container-width",
+            "type": 1,
+            "active": true,
+            "private": false,
+            "protected": false
+          }
+        ],
+        "components": [
+          {
+            "tagName": "h1",
+            "type": "text",
+            "content": "The team",
+            "classes": [
+              {
+                "name": "bdg-title",
+                "label": "bdg-title",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ]
+          },
+          {
+            "content": "",
+            "classes": [
+              {
+                "name": "badges",
+                "label": "badges",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ],
+            "components": [
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "badge",
+                    "label": "badge",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-header",
+                        "label": "badge-header",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "void": true,
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-avatar",
+                        "label": "badge-avatar",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "attributes": {
+                      "src": "img/team1.jpg"
+                    },
+                    "src": "img/team1.jpg"
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-body",
+                        "label": "badge-body",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Adam Smith",
+                        "classes": [
+                          {
+                            "name": "badge-name",
+                            "label": "badge-name",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "CEO",
+                        "classes": [
+                          {
+                            "name": "badge-role",
+                            "label": "badge-role",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ipsum dolor sit",
+                        "classes": [
+                          {
+                            "name": "badge-desc",
+                            "label": "badge-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-foot",
+                        "label": "badge-foot",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "tagName": "span",
+                        "type": "text",
+                        "content": "f",
+                        "classes": [
+                          {
+                            "name": "badge-link",
+                            "label": "badge-link",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "type": "text",
+                        "content": "t",
+                        "classes": [
+                          {
+                            "name": "badge-link",
+                            "label": "badge-link",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "type": "text",
+                        "content": "ln",
+                        "classes": [
+                          {
+                            "name": "badge-link",
+                            "label": "badge-link",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "badge",
+                    "label": "badge",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-header",
+                        "label": "badge-header",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "void": true,
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-avatar",
+                        "label": "badge-avatar",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "attributes": {
+                      "src": "img/team2.jpg"
+                    },
+                    "src": "img/team2.jpg"
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-body",
+                        "label": "badge-body",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "John Black",
+                        "classes": [
+                          {
+                            "name": "badge-name",
+                            "label": "badge-name",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Software Engineer",
+                        "classes": [
+                          {
+                            "name": "badge-role",
+                            "label": "badge-role",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ipsum dolor sit",
+                        "classes": [
+                          {
+                            "name": "badge-desc",
+                            "label": "badge-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-foot",
+                        "label": "badge-foot",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "tagName": "span",
+                        "type": "text",
+                        "content": "f",
+                        "classes": [
+                          {
+                            "name": "badge-link",
+                            "label": "badge-link",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "type": "text",
+                        "content": "t",
+                        "classes": [
+                          {
+                            "name": "badge-link",
+                            "label": "badge-link",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "type": "text",
+                        "content": "ln",
+                        "classes": [
+                          {
+                            "name": "badge-link",
+                            "label": "badge-link",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "badge",
+                    "label": "badge",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-header",
+                        "label": "badge-header",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  },
+                  {
+                    "type": "image",
+                    "void": true,
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-avatar",
+                        "label": "badge-avatar",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "attributes": {
+                      "src": "img/team3.jpg"
+                    },
+                    "src": "img/team3.jpg"
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-body",
+                        "label": "badge-body",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Jessica White",
+                        "classes": [
+                          {
+                            "name": "badge-name",
+                            "label": "badge-name",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Web Designer",
+                        "classes": [
+                          {
+                            "name": "badge-role",
+                            "label": "badge-role",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ipsum dolor sit",
+                        "classes": [
+                          {
+                            "name": "badge-desc",
+                            "label": "badge-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "badge-foot",
+                        "label": "badge-foot",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "tagName": "span",
+                        "type": "text",
+                        "content": "f",
+                        "classes": [
+                          {
+                            "name": "badge-link",
+                            "label": "badge-link",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "type": "text",
+                        "content": "t",
+                        "classes": [
+                          {
+                            "name": "badge-link",
+                            "label": "badge-link",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "type": "text",
+                        "content": "ln",
+                        "classes": [
+                          {
+                            "name": "badge-link",
+                            "label": "badge-link",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tagName": "footer",
+    "content": "",
+    "classes": [
+      {
+        "name": "footer-under",
+        "label": "footer-under",
+        "type": 1,
+        "active": true,
+        "private": false,
+        "protected": false
+      }
+    ],
+    "components": [
+      {
+        "content": "",
+        "classes": [
+          {
+            "name": "container-width",
+            "label": "container-width",
+            "type": 1,
+            "active": true,
+            "private": false,
+            "protected": false
+          }
+        ],
+        "components": [
+          {
+            "content": "",
+            "classes": [
+              {
+                "name": "footer-container",
+                "label": "footer-container",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ],
+            "components": [
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "foot-lists",
+                    "label": "foot-lists",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "foot-list",
+                        "label": "foot-list",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "About us",
+                        "classes": [
+                          {
+                            "name": "foot-list-title",
+                            "label": "foot-list-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Contact",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Events",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Company",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Jobs",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Blog",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "foot-list",
+                        "label": "foot-list",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Services",
+                        "classes": [
+                          {
+                            "name": "foot-list-title",
+                            "label": "foot-list-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Education",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Partner",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Community",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Forum",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Download",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Upgrade",
+                        "classes": [
+                          {
+                            "name": "foot-list-item",
+                            "label": "foot-list-item",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "clearfix",
+                        "label": "clearfix",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "form-sub",
+                    "label": "form-sub",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ],
+                "components": [
+                  {
+                    "content": "",
+                    "classes": [
+                      {
+                        "name": "foot-form-cont",
+                        "label": "foot-form-cont",
+                        "type": 1,
+                        "active": true,
+                        "private": false,
+                        "protected": false
+                      }
+                    ],
+                    "components": [
+                      {
+                        "type": "text",
+                        "content": "Subscribe",
+                        "classes": [
+                          {
+                            "name": "foot-form-title",
+                            "label": "foot-form-title",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "content": "Subscribe to our newsletter to receive exclusive offers and the latest news",
+                        "classes": [
+                          {
+                            "name": "foot-form-desc",
+                            "label": "foot-form-desc",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ]
+                      },
+                      {
+                        "type": "input",
+                        "void": true,
+                        "content": "",
+                        "classes": [
+                          {
+                            "name": "sub-input",
+                            "label": "sub-input",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ],
+                        "attributes": {
+                          "name": "name",
+                          "placeholder": "Name"
+                        }
+                      },
+                      {
+                        "type": "input",
+                        "void": true,
+                        "content": "",
+                        "classes": [
+                          {
+                            "name": "sub-input",
+                            "label": "sub-input",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ],
+                        "attributes": {
+                          "name": "email",
+                          "placeholder": "Email"
+                        }
+                      },
+                      {
+                        "type": "button",
+                        "content": "Submit",
+                        "classes": [
+                          {
+                            "name": "sub-btn",
+                            "label": "sub-btn",
+                            "type": 1,
+                            "active": true,
+                            "private": false,
+                            "protected": false
+                          }
+                        ],
+                        "attributes": {
+                          "type": "button"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content": "",
+        "classes": [
+          {
+            "name": "copyright",
+            "label": "copyright",
+            "type": 1,
+            "active": true,
+            "private": false,
+            "protected": false
+          }
+        ],
+        "components": [
+          {
+            "content": "",
+            "classes": [
+              {
+                "name": "container-width",
+                "label": "container-width",
+                "type": 1,
+                "active": true,
+                "private": false,
+                "protected": false
+              }
+            ],
+            "components": [
+              {
+                "type": "text",
+                "content": "\n              made with GrapesJS\n            ",
+                "classes": [
+                  {
+                    "name": "made-with",
+                    "label": "made-with",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "content": "facebook twitter linkedin mail",
+                "classes": [
+                  {
+                    "name": "foot-social-btns",
+                    "label": "foot-social-btns",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ]
+              },
+              {
+                "content": "",
+                "classes": [
+                  {
+                    "name": "clearfix",
+                    "label": "clearfix",
+                    "type": 1,
+                    "active": true,
+                    "private": false,
+                    "protected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
